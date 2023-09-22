@@ -1,4 +1,4 @@
-# php-package
+# hexlet-phpunit
 
 [![example workflow](https://github.com/jeka34volg/hexlet-phpunit/actions//workflows/workflow.yml/badge.svg)](https://github.com/jeka34volg/hexlet-phpunit/actions)
 <a href="https://codeclimate.com/github/jeka34volg/hexlet-phpunit/maintainability"><img src="https://api.codeclimate.com/v1/badges/01702059e8bdf361ffd1/maintainability" /></a>
@@ -11,9 +11,9 @@ Use <http://psysh.org/>
 ## Setup
 
 ```sh
-$ git clone https://github.com/hexlet-boilerplates/php-package.git
+$ git clone git@github.com:jeka34volg/hexlet-phpunit.git
 
-$ cd php-package
+$ cd hexlet-phpunit
 
 $ make install
 ```
