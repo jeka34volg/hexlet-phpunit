@@ -1,10 +1,8 @@
 # php-package
 
-![example workflow](https://github.com/jeka34volg/hexlet-phpunit/actions//workflows/workflow.yml/badge.svg)
-[![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-boilerplates/php-package/actions)
-[![Code Climate](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/gpa.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package)
-[![Issue Count](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/issue_count.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/issues)
-[![Test Coverage](https://codeclimate.com/github/hexlet-boilerplates/php-package/badges/coverage.svg)](https://codeclimate.com/github/hexlet-boilerplates/php-package/coverage)
+[![example workflow](https://github.com/jeka34volg/hexlet-phpunit/actions//workflows/workflow.yml/badge.svg)](https://github.com/jeka34volg/hexlet-phpunit/actions)
+<a href="https://codeclimate.com/github/jeka34volg/hexlet-phpunit/maintainability"><img src="https://api.codeclimate.com/v1/badges/01702059e8bdf361ffd1/maintainability" /></a>
+<a href="https://codeclimate.com/github/jeka34volg/hexlet-phpunit/test_coverage"><img src="https://api.codeclimate.com/v1/badges/01702059e8bdf361ffd1/test_coverage" /></a>
 
 ## Addons
 
